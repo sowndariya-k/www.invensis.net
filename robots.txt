@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /skills/
+Disallow: /job-status/
+Disallow: /industry/
+Disallow: /skills/
+Disallow: /linkless/
+Disallow: /faq/
+Disallow: /benefits/
+Disallow: /testimonial/
+Disallow: *?76b45b56_page=
+Disallow: *?*_page=*
+
+Sitemap: https://www.invensis.net/sitemap.xml
